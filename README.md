@@ -1,1 +1,1 @@
-* exaple of README *
+* exaple of README 
